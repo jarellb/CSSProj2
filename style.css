@@ -1,0 +1,108 @@
+body, html {
+	background-color: #f6f6f6;
+}
+
+#painting {
+	height: 400px;
+	width: 400px;
+	background-color: #fff4db;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px; 
+	box-shadow: 5px;
+}
+
+#toprow {
+	height: 290px;
+}
+
+#bigbox {
+	height: 290px;
+	width: 290px;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.purple {
+	background-color: purple;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+#divider {
+	width: 10px;
+	height: 290px;
+}
+
+#topleftcolumn {
+}
+
+.mediumbox {
+	width: 100px;
+	height: 140px;
+}
+
+.smallbox {
+	width: 100px;
+	height: 100px;
+}
+
+#divider2 {
+	height: 10px;
+	width: 100px;
+}
+
+#divider3 {
+	height: 10px;
+	width: 400px;
+}
+
+#bottomrow {
+}
+
+#bottomright {
+}
+
+.bottombox {
+	width: 20px;
+	height: 45px;
+}
+
+#divider4 {
+	height: 10px;
+	width: 20px;
+}
+
+.bottommidbox {
+	height: 100px;
+	width: 260px;
+}
+
+#divider5 {
+	height: 100px;
+	width: 10px;
+}
